@@ -1,13 +1,13 @@
-# Day 01 — Arithmetic, Fractions & Percentages
+# Day 01 — Functions: AI/ML ka Sabse Important Concept
 
 📅 Date: 2026-10-06  
 🎯 Phase: 0 — Prerequisites  
-📚 Topic: Arithmetic, fractions, ratios, percentages  
-⏱️ Study Time: —
+📚 Topic: Functions  
+🎯 Difficulty: Very Easy
 
-## Objective
+## Why This Matters
 
-Build the arithmetic foundation needed for algebra, vectors, probability, statistics, and ML calculations.
+Har ML model ko ek function ke roop mein samjha ja sakta hai: input data lekar output/prediction banana.
 
 ## Daily Learning Flow
 
@@ -21,8 +21,15 @@ Build the arithmetic foundation needed for algebra, vectors, probability, statis
 8. Practice problems
 9. Mastery test
 
-## Completion Rule
+## Day 1 Status
 
-**Reading the notes alone does not complete Day 1.**
+✅ Completed
 
-Day 1 becomes **Mastered** only after the practice and mastery test are completed and reviewed.
+## Mastery
+
+- ✅ Function ko simple words mein explain kar sakta hoon
+- ✅ f(x) = mx + b jaisi simple functions calculate kar sakta hoon
+- ✅ Python mein function plot kar sakta hoon
+- ✅ Samajhta hoon ki ML model ko function ki tarah kyun represent karte hain
+
+Source: Day 1 Functions study material.

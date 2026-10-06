@@ -1,51 +1,100 @@
-# Day 01 Notes
+# Day 01 Notes — Functions
 
 ## 1. Intuition
 
-Numbers are the basic language of quantitative reasoning. AI/ML continuously uses quantities such as errors, probabilities, averages, distances, weights, and percentages.
+Function = ek machine jisme input daalte ho aur output milta hai.
 
-## 2. Real-Life Example
+**Rule:** Same input → same output.
 
-A shop bill can require multiplication for quantity × price, addition for totals, subtraction for change, and percentages for discounts.
+Examples:
+- Vending machine: button/input → product
+- Calculator: 5 × 3 → 15
+- Google Maps: address → route
 
-## 3. Visual Explanation
+Math notation:
+- f = function ka naam
+- x = input
+- y = output
+- f(x) = x par function apply karna
 
-### Number line
+## 2. Real-Life Examples
 
-A number line helps visualize positive/negative numbers and distance from zero.
+### Temperature Conversion
 
-### Simple Python visualization
+F = (9/5)C + 32
 
-Use Python with Matplotlib to plot points on a number line or compare quantities with a bar chart.
+Celsius input hai aur Fahrenheit output.
+
+### Apple Price
+
+Price = 2 × Apples
+
+### House Price
+
+Price = f(Size)
+
+Size input hai aur price output.
+
+## 3. Visual Intuition
+
+Graph mein:
+- X-axis = input
+- Y-axis = output
+- Har point (x, y) batata hai ki input x par output y mila.
+
+Function woh rule hai jo har input ke liye output batata hai.
 
 ## 4. Mathematics
 
-### Number types
-
-- Whole numbers: 0, 1, 2, 3, …
-- Integers: …, -2, -1, 0, 1, 2, …
-- Decimals: 0.5, 1.25, 3.75
-- Fractions: 1/2, 3/4
-- Ratios: 2:3
-
-### Basic operations
-
-Addition, subtraction, multiplication, division, and order of operations.
-
-### Percentages
-
-Percentage = (part / total) × 100
-
 Example:
 
-5 positive observations out of 20:
+f(x) = 2x + 3
 
-5 / 20 = 0.25 = 25%
+Process:
+1. x input lo
+2. x ko 2 se multiply karo
+3. 3 add karo
+4. Output milta hai
 
-## 5. Worked AI/ML Example
+| x | 2x + 3 | f(x) |
+|---:|---:|---:|
+| 0 | 3 | 3 |
+| 1 | 5 | 5 |
+| 2 | 7 | 7 |
+| 4 | 11 | 11 |
+| -1 | 1 | 1 |
 
-Suppose a classifier makes 17 correct predictions out of 20.
+## 5. Worked Example
 
-Accuracy = (17 / 20) × 100 = **85%**
+Question: f(x) = 3x - 5, find f(4).
 
-Percentages make results easier to interpret and compare across datasets of different sizes.
+f(4) = 3(4) - 5  
+= 12 - 5  
+= 7
+
+**Answer: f(4) = 7**
+
+## 6. Function Shapes
+
+- Linear: 2x + 3 → straight line
+- Quadratic: x² → U-shape
+- Sine: sin(x) → wave
+
+## 7. AI/ML Connection
+
+ML system ko:
+
+**Input x → Function/Model f → Output y**
+
+Examples:
+- Spam classifier: email → spam/ham
+- House-price model: features → price
+- Image recognizer: pixels → label
+- ChatGPT: prompt → generated response
+
+ML language:
+- x = feature/input data
+- y = prediction/target
+- f = model
+
+Important idea: humein exact function pehle se nahi pata hota. Machine Learning ka kaam data se useful function/model seekhna hai.

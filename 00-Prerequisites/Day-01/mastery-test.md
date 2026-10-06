@@ -1,27 +1,20 @@
-# Day 01 Mastery Test
+# Day 01 Mastery Test — Functions
 
-## Part A — Explain
+## Mastery Check
 
-1. What is a fraction?
-2. What is the difference between a ratio and a percentage?
-3. Why is 0.25 equal to 25%?
+Before moving to Day 2:
 
-## Part B — Calculate
+- ✅ Function ko simple words mein explain kar sakta hoon
+- ✅ f(x) = mx + b jaisi simple functions calculate kar sakta hoon
+- ✅ Python mein function plot kar sakta hoon
+- ✅ Samajhta hoon ki har ML model ko function ki tarah kyun represent kiya ja sakta hai
 
-1. Find 25% of 360.
-2. Convert 7/20 into a percentage.
-3. Find the average of 10, 20, 30, and 40.
-4. A model gets 18 correct answers out of 24. Find the accuracy.
+## Result
 
-## Part C — AI/ML Connection
+**Status: ✅ Mastered**
 
-1. Give one ML situation where a percentage is useful.
-2. Explain why converting results into percentages can improve interpretation.
+## Key Takeaway
 
-## Score
+Real World → Input → Function/Model → Output
 
-Score: __ / __
-
-Status:
-- [ ] In Progress
-- [ ] Mastered
+Machine Learning mein hum data se useful function/model learn karte hain.

@@ -6,14 +6,14 @@
 - **Completed:** Day 1 ✅
 - **Current Day:** Day 2
 - **Started:** 2026-10-06
-- **Status:** Ready for Day 2
+- **Status:** Day 2 materials added; awaiting local VS Code run, practice review, and mastery check
 
 ## Day 1
 
 **Topic:** Functions  
-**Status:** ✅ Mastered
+**Status:** ✅ Previously marked mastered
 
-Completed:
+Completed in the existing learning record:
 - Intuition
 - Real-life examples
 - Visual understanding
@@ -22,6 +22,25 @@ Completed:
 - AI/ML connection
 - Practice
 - Mastery check
+
+## Day 2
+
+**Topic:** Functions in AI/ML — Parameterized Functions  
+**Status:** 🟡 Materials prepared; practical completion not yet verified
+
+Added:
+- Learning overview and links
+- Concept notes on parameters, predictions, and errors
+- Practice problems
+- Mastery checklist
+- Python implementation for visualizing house-size data and a candidate linear model
+
+Next actions:
+1. Open `00-Prerequisites/Day-02/implementation.py` in VS Code.
+2. Run it and inspect the scatter plot and model line.
+3. Change `m` and `b` as requested in the study material.
+4. Attempt all practice questions and review any mistakes.
+5. Check off mastery items only after completing them.
 
 ## Phase Progress
 

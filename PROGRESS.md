@@ -4,9 +4,9 @@
 
 - **Current Phase:** Phase 0 — Prerequisites
 - **Completed:** Day 1 ✅ (existing record)
-- **Current Day:** Day 3
+- **Current Day:** Day 4
 - **Started:** 2026-10-06
-- **Status:** Day 2 and Day 3 materials prepared; practical completion awaits local VS Code runs, practice review, and mastery checks
+- **Status:** Day 2, Day 3, and Day 4 materials prepared; practical completion awaits local VS Code runs, practice review, and mastery checks
 
 ## Day 1
 
@@ -16,35 +16,38 @@
 ## Day 2
 
 **Topic:** Functions in AI/ML — Parameterized Functions  
-**Status:** 🟡 Materials prepared; practical completion not yet verified
+**Status:** 🟡 Materials prepared; practical completion not yet verified  
+**Files:** `00-Prerequisites/Day-02/`
 
-Files: `00-Prerequisites/Day-02/`
-
-Next actions:
-1. Run `implementation.py` in VS Code.
-2. Experiment with the slope and intercept.
-3. Attempt the practice questions and mastery check.
+Next: run implementation.py in VS Code, experiment with the slope and intercept, attempt practice, and complete the mastery check.
 
 ## Day 3
 
 **Topic:** Exponents & Logarithms — Growth and Reverse Growth  
-**Status:** 🟡 Materials prepared; practical completion not yet verified
+**Status:** 🟡 Materials prepared; practical completion not yet verified  
+**Files:** `00-Prerequisites/Day-03/`
 
-Files: `00-Prerequisites/Day-03/`
+Next: run implementation.py in VS Code, inspect the exponential and logarithmic plots, attempt practice, and complete the mastery check.
+
+## Day 4
+
+**Topic:** Coordinate Geometry — The Map Where All Data Lives  
+**Status:** 🟡 Materials prepared; practical completion not yet verified  
+**Files:** `00-Prerequisites/Day-04/`
 
 Added:
 - `README.md` — objectives and navigation
-- `notes.md` — intuition, formulas, rules, and AI/ML connections
-- `practice.md` — basic, conceptual, numerical, and AI/ML questions
+- `notes.md` — coordinates, distance, midpoint, slope, and AI/ML links
+- `practice.md` — basic, conceptual, numerical, AI/ML, and Python tasks
 - `mastery-test.md` — completion checklist
-- `implementation.py` — exponential, polynomial, and logarithmic plots
+- `implementation.py` — points, line segment, midpoint, distance, and pairwise-distance experiments
 
-Next actions:
-1. Open `00-Prerequisites/Day-03/implementation.py` in VS Code.
-2. Run the code and observe both plots and the printed calculations.
-3. Try the x-range experiment and optional log(0) experiment.
+Next:
+1. Pull the latest repository changes locally.
+2. Run `00-Prerequisites/Day-04/implementation.py` in VS Code.
+3. Try the alternate points and four-point distance task.
 4. Attempt the practice questions and mastery check.
-5. Mark Day 3 mastered only after these activities have been completed and reviewed.
+5. Mark Day 4 mastered only after practical work and review.
 
 ## Phase Progress
 

@@ -2,11 +2,11 @@
 
 ## Current Status
 
-- **Current Phase:** Phase 0 — Prerequisites
+- **Current Phase:** Phase 1 — Linear Algebra
 - **Completed:** Day 1 ✅ (existing record)
-- **Current Day:** Day 4
+- **Current Day:** Day 5
 - **Started:** 2026-10-06
-- **Status:** Day 2, Day 3, and Day 4 materials prepared; practical completion awaits local VS Code runs, practice review, and mastery checks
+- **Status:** Day 2–5 materials prepared; practical completion awaits local VS Code runs, practice review, and mastery checks
 
 ## Day 1
 
@@ -35,26 +35,34 @@ Next: run implementation.py in VS Code, inspect the exponential and logarithmic 
 **Status:** 🟡 Materials prepared; practical completion not yet verified  
 **Files:** `00-Prerequisites/Day-04/`
 
+Next: run implementation.py in VS Code, experiment with points and pairwise distances, attempt practice, and complete the mastery check.
+
+## Day 5
+
+**Topic:** Scalars & Vectors — The Beginning of Linear Algebra  
+**Status:** 🟡 Materials prepared; practical completion not yet verified  
+**Files:** `00-Prerequisites/Day-05/`
+
 Added:
 - `README.md` — objectives and navigation
-- `notes.md` — coordinates, distance, midpoint, slope, and AI/ML links
+- `notes.md` — scalar/vector definitions, magnitude, addition, scalar multiplication, and AI/ML links
 - `practice.md` — basic, conceptual, numerical, AI/ML, and Python tasks
 - `mastery-test.md` — completion checklist
-- `implementation.py` — points, line segment, midpoint, distance, and pairwise-distance experiments
+- `implementation.py` — vector magnitude, addition, scalar multiplication, and arrow visualizations
 
 Next:
 1. Pull the latest repository changes locally.
-2. Run `00-Prerequisites/Day-04/implementation.py` in VS Code.
-3. Try the alternate points and four-point distance task.
+2. Run `00-Prerequisites/Day-05/implementation.py` in VS Code.
+3. Observe vector addition and scalar multiplication in both plots.
 4. Attempt the practice questions and mastery check.
-5. Mark Day 4 mastered only after practical work and review.
+5. Mark Day 5 mastered only after practical work and review.
 
 ## Phase Progress
 
 | Phase | Status |
 |---|---|
-| 0 — Prerequisites | 🟡 In Progress |
-| 1 — Linear Algebra | ⬜ Not Started |
+| 0 — Prerequisites | 🟡 In Progress — review and mastery checks pending |
+| 1 — Linear Algebra | 🟡 Started — Day 5 scalars and vectors |
 | 2 — Analytic Geometry | ⬜ Not Started |
 | 3 — Calculus | ⬜ Not Started |
 | 4 — Probability | ⬜ Not Started |
